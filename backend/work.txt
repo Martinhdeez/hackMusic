@@ -1,0 +1,10 @@
+
+
+MARTIN:
+   1 - Embbeded repository pattern
+   3 - Models, services
+
+ALEX: 
+   1 - Sistema de login spotify
+   2 - API spotify
+   3 -routes
